@@ -1,0 +1,34 @@
+Script started on 2023-10-04 15:04:13-04:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="204" LINES="63"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn2[?2004h[agupt379@compute asn2]$ [7m./converter[27m[1P./converte[K[K[K[K[K[K[K[K[7mpower2_calculator[27mpower2_calculator
+[?2004lEnter a non-negative integer number ( or 0 to quit )
+0 24
+2^24 = 16777216
+
+Enter a non-negative integer number ( or 0 to quit )
+4
+2^4 = 16
+
+Enter a non-negative integer number ( or 0 to quit )
+50 0
+2^50 = 1125899906842624
+
+Enter a non-negative integer number ( or 0 to quit )
+67
+2^67 = 0
+
+Enter a non-negative integer number ( or 0 to quit )
+-35
+2^4294967261 = 0
+
+Enter a non-negative integer number ( or 0 to quit )
+26
+2^26 = 67108864
+
+Enter a non-negative integer number ( or 0 to quit )
+0
+2^0 = 1
+Program ended. Thank you!!
+]0;agupt379@compute:~/courses/cs2211/Asn/asn2[?2004h[agupt379@compute asn2]$ l[Kexit 
+[?2004lexit
+
+Script done on 2023-10-04 15:09:08-04:00 [COMMAND_EXIT_CODE="0"]

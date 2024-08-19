@@ -1,0 +1,33 @@
+Script started on 2023-09-19 21:52:17-04:00 [TERM="xterm-256color" TTY="/dev/pts/17" COLUMNS="204" LINES="63"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ [7mdate [27mdate 
+[?2004lTue Sep 19 09:52:30 PM EDT 2023
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ whoami
+[?2004lagupt379
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ pwd
+[?2004l/home/agupt379/courses/cs2211/Asn/asn1/q2q3
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ [7m/usr/bin/ls df2 df1 tf2 tf1[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/usr/bin/ls df2 df1 tf2 tf1
+[?2004ltf1  tf2
+
+df1:
+df1
+
+df2:
+tf1
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ [7m/usr/bin/ls -l[27m/usr/bin/ls -l
+[?2004ltotal 3
+-rw-r--r-- 1 agupt379 agupt379 0 Sep 19 21:52 asn1_q3.script
+drwxr-xr-x 2 agupt379 agupt379 3 Sep 19 15:25 df1
+drwxr-xr-x 3 agupt379 agupt379 3 Sep 19 15:23 df2
+-rw-r--r-- 1 agupt379 agupt379 0 Sep 19 16:02 tf1
+-rw-r--r-- 1 agupt379 agupt379 0 Sep 19 16:02 tf2
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ [7m/usr/bin/ls -ld df1 df2[27m/usr/bin/ls -ld df1 df2
+[?2004ldrwxr-xr-x 2 agupt379 agupt379 3 Sep 19 15:25 df1
+drwxr-xr-x 3 agupt379 agupt379 3 Sep 19 15:23 df2
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ [7m/usr/bin/ls[27m/usr/bin/ls
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ [7m/usr/bin/ls[27m/usr/bin/ls .
+[?2004lasn1_q3.script	df1  df2  tf1  tf2
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1/q2q3[?2004h[agupt379@compute q2q3]$ exit
+[?2004lexit
+
+Script done on 2023-09-19 21:55:34-04:00 [COMMAND_EXIT_CODE="0"]

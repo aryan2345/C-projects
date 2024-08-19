@@ -1,0 +1,98 @@
+Script started on 2023-11-13 16:03:52-05:00 [TERM="xterm-256color" TTY="/dev/pts/44" COLUMNS="80" LINES="24"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ gcc -o bs_tree main.c data.c bst.c
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ ./bs_Tre[K[K[Ktree
+[?2004l  100 	1st Street            1000
+    8 	3 Valleys Place       2000
+   74 	3rd Street            3000
+    4 	4 Oaks Crescent       2100
+   10 	Abbott Street         2300
+  204 	Beech Drive           1800
+   36 	Beechbank Crescent    2400
+   36 	Beechmount Crescent   2500
+   46 	Oxford Street         2600
+   70 	Oxford Street         2500
+  101 	Western Road          2500
+Enter the size of the tree node array: 3
+Enter key and data pairs, each with two lines:
+  - One line for the key (an int followed by a string with spaces)
+  - The next line with one int for the data
+Enter key 1:
+a 10 a
+Enter data for key 1:
+100
+Enter key 2:
+10 a
+Enter data for key 2:
+200
+Enter key 3:
+30 b
+Enter data for key 3:
+300
+   10 	a                      100
+   30 	b                      300
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ ./bs_tree
+[?2004l  100 	1st Street            1000
+    8 	3 Valleys Place       2000
+   74 	3rd Street            3000
+    4 	4 Oaks Crescent       2100
+   10 	Abbott Street         2300
+  204 	Beech Drive           1800
+   36 	Beechbank Crescent    2400
+   36 	Beechmount Crescent   2500
+   46 	Oxford Street         2600
+   70 	Oxford Street         2500
+  101 	Western Road          2500
+Enter the size of the tree node array: 3
+Enter key and data pairs, each with two lines:
+  - One line for the key (an int followed by a string with spaces)
+  - The next line with one int for the data
+Enter key 1:
+b   10 b
+Enter data for key 1:
+100
+Enter key 2:
+20 a
+Enter data for key 2:
+200
+Enter key 3:
+30 c
+Enter data for key 3:
+300
+   20 	a                      200
+   10 	b                      100
+   30 	c                      300
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ ./bs_tree
+[?2004l  100 	1st Street            1000
+    8 	3 Valleys Place       2000
+   74 	3rd Street            3000
+    4 	4 Oaks Crescent       2100
+   10 	Abbott Street         2300
+  204 	Beech Drive           1800
+   36 	Beechbank Crescent    2400
+   36 	Beechmount Crescent   2500
+   46 	Oxford Street         2600
+   70 	Oxford Street         2500
+  101 	Western Road          2500
+Enter the size of the tree node array: 3
+Enter key and data pairs, each with two lines:
+  - One line for the key (an int followed by a string with spaces)
+  - The next line with one int for the data
+Enter key 1:
+a   10 a
+Enter data for key 1:
+100
+Enter key 2:
+20 b 
+Enter data for key 2:
+200 
+Enter key 3:
+30 c
+Enter data for key 3:
+300
+Error: Tree is already full. Unable to insert (c, 30, 300)
+   10 	a                      100
+   20 	b                      200
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ exit 
+[?2004lexit
+
+Script done on 2023-11-13 16:06:04-05:00 [COMMAND_EXIT_CODE="0"]

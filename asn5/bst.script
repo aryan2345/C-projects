@@ -1,0 +1,44 @@
+Script started on 2023-11-28 18:17:10-05:00 [TERM="xterm-256color" TTY="/dev/pts/55" COLUMNS="80" LINES="12"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn5[?2004h[agupt379@compute asn5]$ make
+[?2004lgcc -Wall -Wextra -std=c99 -c -o matrix.o matrix.c
+gcc -Wall -Wextra -std=c99 -c -o bstree.o bstree.c
+gcc -Wall -Wextra -std=c99 -c -o datatype.o datatype.c
+gcc -Wall -Wextra -std=c99 -c -o main.o main.c
+gcc -Wall -Wextra -std=c99 -o mymatrix matrix.o bstree.o datatype.o main.o
+]0;agupt379@compute:~/courses/cs2211/Asn/asn5[?2004h[agupt379@compute asn5]$ ./mymatrix
+[?2004l70 Oxford Street
+8 3 Valleys Place
+101 Western Road
+74 3rd Street
+4 4 Oaks Crescent
+10 Abbott Street
+70 Oxford Street
+100 1st Street
+204 Beech Drive
+10 Abbott Street
+36 Beechbank Crescent
+36 Beechmount Crescent
+70 Oxford Street
+46 Oxford Street
+101 Western Road
+Number		Street	  		Occurrence
+100             1st Street           	1
+8               3 Valleys Place      	1
+74              3rd Street           	1
+4               4 Oaks Crescent      	1
+10              Abbott Street        	2
+204             Beech Drive          	1
+36              Beechbank Crescent   	1
+36              Beechmount Crescent  	1
+46              Oxford Street        	1
+70              Oxford Street        	3
+101             Western Road         	2
+]0;agupt379@compute:~/courses/cs2211/Asn/asn5[?2004h[agupt379@compute asn5]$ make clean
+[?2004lrm -f matrix.o bstree.o datatype.o main.o mymatrix
+]0;agupt379@compute:~/courses/cs2211/Asn/asn5[?2004h[agupt379@compute asn5]$ ls
+[?2004lbstree.c  bst.script  datatype.h  Makefile  matrix.h
+bstree.h  datatype.c  main.c      matrix.c
+]0;agupt379@compute:~/courses/cs2211/Asn/asn5[?2004h[agupt379@compute asn5]$ exit
+[?2004lexit
+
+Script done on 2023-11-28 18:18:45-05:00 [COMMAND_EXIT_CODE="0"]

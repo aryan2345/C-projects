@@ -1,0 +1,122 @@
+Script started on 2023-10-04 14:40:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="204" LINES="63"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn2[?2004h[agupt379@compute asn2]$ ls[K[K[7mgcc power2_calculator.c -o power2_calculator[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc power2_calculator.c -o power2_calculator
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn2[?2004h[agupt379@compute asn2]$ [7m./converter[27m./converter
+[?2004lPick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+1
+Please give the conversion direction: 
+C for conversion from Celsius to Fahrenheit
+F for conversion from Fahrenheit to Celsius
+C
+Enter Celsius value: 32
+Celsius in 32.00 to Fahrenheit is 89.60
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+1
+Please give the conversion direction: 
+C for conversion from Celsius to Fahrenheit
+F for conversion from Fahrenheit to Celsius
+F
+Enter Fahrenheit value: 87
+Fahrenheit in 87.00 to Celsius is 30.56
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+2
+Please give the conversion direction: 
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre
+C
+Enter Centimetre value: 34
+Centimeter in 34.00 to Inch is 13.39
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+2
+Please give the conversion direction: 
+C for conversion from Centimetre to Inch
+I for conversion from Inch to Centimetre
+I
+Enter Inch value: 45
+Inch in 45.00 to Centimeter is 114.30
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+3
+Please give the conversion direction: 
+K for conversion from Kilometer to mile
+M for conversion from Mile to Kilometer
+K
+Enter Kilometer value: 
+45
+Kilometer in 45.00 to mile is 27.95
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+3
+Please give the conversion direction: 
+K for conversion from Kilometer to mile
+M for conversion from Mile to Kilometer
+M
+Enter Mile value: 
+56
+Mile in 56.00 to Kilometer is 90.16
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+4
+Please give the conversion direction: 
+G for conversion from gallon to liter
+L for conversion from liter to gallon
+G
+Enter gallon value: 
+34
+Gallon in 34.00 to liter is 128.86
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+4
+Please give the conversion direction: 
+G for conversion from gallon to liter
+L for conversion from liter to gallon
+L
+Enter liter value: 
+54
+Liter in 54.00 to gallon is 14.25
+Pick an option: 
+1 for conversion between Celsius and Fahrenheit
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+0
+Program ended. Thank you!]0;agupt379@compute:~/courses/cs2211/Asn/asn2[?2004h[agupt379@compute asn2]$ exit
+[?2004lexit
+
+Script done on 2023-10-04 15:03:40-04:00 [COMMAND_EXIT_CODE="0"]

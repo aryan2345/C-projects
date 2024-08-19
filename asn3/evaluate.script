@@ -1,0 +1,40 @@
+Script started on 2023-10-12 17:06:11-04:00 [TERM="xterm-256color" TTY="/dev/pts/28" COLUMNS="204" LINES="63"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ sci[K[K[K[7m#!/bin/sh[27m#!/bin/sh
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# CS2211a 2023, Section 1[27m# CS2211a 2023, Section 1
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# Assignment number[27m# Assignment number : 3
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# Your name[27m[1P# Your nam[K[K[K[K[K[K[K[KAryan Gupta
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ # Aryan Gupta[K[K[K[K[K[K[K[K[K[K[K251306109
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ * a[K[K[K# agupt379[K9
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ # 12th October,2023.
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7mgcc -o evaluate evaluate.c[27mgcc -o evaluate evaluate.c
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ ./evaluate
+[?2004lEnter an arithmetic expression please: 6
+Result: 6.00
+Do you want to continue (Y/N)
+Y
+Enter an arithmetic expression please: 2+  +n4   4
+Result: 6.00
+Do you want to continue (Y/N)
+Y
+Enter an arithmetic expression please: 5 - -2
+Result: 7.00
+Do you want to continue (Y/N)
+Y
+Enter an arithmetic expression please: 2.6  .6   + 2 - 1.6 -   10
+Result: -7.00
+Do you want to continue (Y/N)
+Y
+Enter an arithmetic expression please: . -2.0  + +  20 + 1.6 - 0 10  -  - 100
+Result: -90.40
+Do you want to continue (Y/N)
+Y
+Enter an arithmetic expression please: 2.6 --    -1.6 + 10 +2 2.   2.0 + 2 - 2
+Result: 16.20
+Do you want to continue (Y/N)
+Y
+Enter an arithmetic expression please: 1.  2.6 - 1.6 * 10 - 2.0
+Error: Invalid Input.
+]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ exitr[K
+[?2004lexit
+
+Script done on 2023-10-12 17:12:18-04:00 [COMMAND_EXIT_CODE="1"]

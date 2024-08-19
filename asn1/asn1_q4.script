@@ -1,0 +1,14 @@
+Script started on 2023-09-19 22:45:29-04:00 [TERM="xterm-256color" TTY="/dev/pts/17" COLUMNS="204" LINES="63"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1[?2004h[agupt379@compute asn1]$ date
+[?2004lTue Sep 19 10:45:35 PM EDT 2023
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1[?2004h[agupt379@compute asn1]$ whoami
+[?2004lagupt379
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1[?2004h[agupt379@compute asn1]$ pwd
+[?2004l/home/agupt379/courses/cs2211/Asn/asn1
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1[?2004h[agupt379@compute asn1]$ pwdwhoami[2Pdateexitdatewhoami[K[K[K[K[K[Kgcc -o asn1 asn1.c
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn1[?2004h[agupt379@compute asn1]$ [7m./asn1[27m./asn1
+[?2004lHello, CS2211 2023!
+]0;agupt379@compute:~/courses/cs2211/Asn/asn1[?2004h[agupt379@compute asn1]$ exit
+[?2004lexit
+
+Script done on 2023-09-19 22:47:10-04:00 [COMMAND_EXIT_CODE="0"]

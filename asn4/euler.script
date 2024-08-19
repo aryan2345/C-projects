@@ -1,0 +1,18 @@
+Script started on 2023-11-13 16:00:19-05:00 [TERM="xterm-256color" TTY="/dev/pts/44" COLUMNS="80" LINES="24"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ exit./eulerFilegcc -o eulerFile euler.c
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ gcc -o eulerFile euler.cexit[K./eulerFile
+[?2004lEnter a small number (epsilon): ^[[A^[[A^[[A^[[A                0.0001
+Approximation of e: 2.7182539682540
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ ./eulerFilegcc -o eulerFile euler.c[13P./eulerFile
+[?2004lEnter a small number (epsilon): 0.0000001
+Approximation of e: 2.7182818011464
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ ./eulerFilegcc -o eulerFile euler.c[13P./eulerFile
+[?2004lEnter a small number (epsilon): 0.0000000001
+Approximation of e: 2.7182818284468
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ ./eulerFile
+[?2004lEnter a small number (epsilon): 0.0000000000001
+Approximation of e: 2.7182818284590
+]0;agupt379@compute:~/courses/cs2211/Asn/asn4[?2004h[agupt379@compute asn4]$ ./eulerFile[K[K[K[K[K[K[K[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2023-11-13 16:03:23-05:00 [COMMAND_EXIT_CODE="0"]

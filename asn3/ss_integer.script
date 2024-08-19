@@ -1,0 +1,92 @@
+Script started on 2023-10-12 17:16:00-04:00 [TERM="xterm-256color" TTY="/dev/pts/28" COLUMNS="204" LINES="63"]
+]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m#!/bin/sh[27m#!/bin/sh
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# CS2211a 2023, Section 1[27m# CS2211a 2023, Section 1
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# Assignment number : 3[27m# Assignment number : 3
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# Aryan Gupta[27m# Aryan Gupta
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# 251306109[27m# 251306109
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# agupt379[27m# agupt379
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m# 12th October,2023.[27m# 12th October,2023.
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7mgcc -o ss_integer ss_integer.c -lm[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc -o ss_integer ss_integer.c -lm
+[?2004l]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ [7m./ss_integer[27m./ss_integer
+[?2004lEnter enter a valid integer: -324342
+-
+ _ 
+ _|
+ _|
+ _ 
+ _|
+|_ 
+   
+|_|
+  |
+ _ 
+ _|
+ _|
+   
+|_|
+  |
+ _ 
+ _|
+|_ 
+Do you want to continue (Y/N)? Y
+Enter enter a valid integer: - 32432
++
+ _ 
+ _|
+ _|
+ _ 
+ _|
+|_ 
+   
+|_|
+  |
+ _ 
+ _|
+ _|
+ _ 
+ _|
+|_ 
+Do you want to continue (Y/N)? Y
+Enter enter a valid integer: 09339
++
+ _ 
+|_|
+  |
+ _ 
+ _|
+ _|
+ _ 
+ _|
+ _|
+ _ 
+|_|
+  |
+Do you want to continue (Y/N)? Y
+Enter enter a valid integer: 200
++
+ _ 
+ _|
+|_ 
+ _ 
+| |
+|_|
+ _ 
+| |
+|_|
+Do you want to continue (Y/N)? N Y
+Enter enter a valid integer: -199
+-
+   
+  |
+  |
+ _ 
+|_|
+  |
+ _ 
+|_|
+  |
+Do you want to continue (Y/N)? N
+]0;agupt379@compute:~/courses/cs2211/Asn/asn3[?2004h[agupt379@compute asn3]$ exit
+[?2004lexit
+
+Script done on 2023-10-12 17:17:33-04:00 [COMMAND_EXIT_CODE="0"]
